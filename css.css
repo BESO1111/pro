@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.divi{
+   width: 400px;
+   height: 300px;
+   border: 2px solid green;
+margin: 50px auto;
+
+} 
+ 
+.divi input {
+display: block;
+
+background-color: rgb(59, 59, 97);
+margin: 0px auto;
+width: 150px;
+height: 50px;
+margin-bottom: 10px;
+color: black;
+}
+
+
+.divi p{
+    width: 150px;
+    height: 30px;
+    background-color: rgb(255, 101, 227);
+ margin:  0px auto;
+ margin-bottom: 5px;
+align-items: centerg;
+}
